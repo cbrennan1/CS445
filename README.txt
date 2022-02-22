@@ -23,3 +23,7 @@ java -jar build/libs/HW1_CB.jar
 ```
 
 4. Steps 1-3 can be automated by running the build.sh script located in the same directory as this README.txt
+```
+sudo chmod 777 build.sh
+./build.sh
+```
