@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HW1_CB",
     "\\HW1_CB\\bin",
     "\\HW1_CB\\bin\\Main",
     "\\HW1_CB\\src",
@@ -9,5 +8,6 @@
     "\\HW1_CB\\src\\main\\java",
     "\\HW1_CB\\src\\Testing"
   ],
+  "SelectedNode": "\\build.sh",
   "PreviewInSolutionExplorer": false
 }
