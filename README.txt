@@ -7,7 +7,8 @@
 ```
 sudo apt-get -y update
 sudo apt-get -y install openjdk-17-jdk
-sudo apt-get -y install gradle
+
+sudo snap install gradle --classic
 ```
 
 2. Change directory into the folder for the project
