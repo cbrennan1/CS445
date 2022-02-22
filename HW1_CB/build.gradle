@@ -12,6 +12,6 @@
 
 jar {
     manifest {
-        attributes 'Main-Class': 'Main.TestCreature'
+        attributes 'Main-Class': 'main.java.TestCreature'
     }
 }

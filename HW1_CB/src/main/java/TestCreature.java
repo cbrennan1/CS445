@@ -1,4 +1,4 @@
-package java;
+package main.java;
 
 // Colin Brennan
 // CS 445
