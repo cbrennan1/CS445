@@ -5,5 +5,5 @@ sudo apt-get -y update
 sudo apt-get -y install openjdk-17-jdk
 sudo apt-get -y install gradle
 
-sudo ./gradlew build
+gradle build
 sudo java -jar build/libs/HW1_CB.jar

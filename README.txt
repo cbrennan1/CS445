@@ -19,7 +19,7 @@ cd HW1_CB
 3. Run Application
 
 ```
-sudo ./gradlew build
+gradle build
 sudo java -jar build/libs/HW1_CB.jar
 ```
 
